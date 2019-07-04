@@ -1,5 +1,6 @@
 # snippet-manager
-iOS code snippet manager with syntax highlighting. **[UNDER DEVELOPEMENT]**
+iOS code snippet manager with syntax highlighting.  
+**[STILL UNDER DEVELOPMENT]**
 
 This application should be using **Realm Framework** for persisting user data, and **UserDefaults** for user settings. It's not using any of these two for now, as I haven't had the time to implement them yet, next update!  
 
