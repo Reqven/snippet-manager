@@ -7,6 +7,7 @@ This application uses [Highlightr](https://github.com/raspu/Highlightr) for synt
 **Todo list:**
 - Realm Framework for user data
 - UserDefaults for user settings
+- Adjust app behavior according to the saved settings
 - Filtering snippets with the Searchbar 
 - Add new snippet screen
 - Show language used in TableView
